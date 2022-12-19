@@ -8,3 +8,4 @@ jupyterlab-tour
 jupyterlab_miami_nights
 jupyterlite==0.1.0b15
 theme-darcula
+libarchive-c
